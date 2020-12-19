@@ -57,10 +57,10 @@
   <a href="https://www.instagram.com/sul.lur/">
     <img align="left" alt="My  | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:indonesianweb1109@gmail.com">
+  <a href="mailto:fadhrulrahman3@gmail.com">
     <img align="left" alt="My | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
   
   
- [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/kriss_464/) 
+ [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/sul.lur/) 
