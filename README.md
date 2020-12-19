@@ -24,7 +24,7 @@
 <br>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=TheSploit&show_icons=true&hide_border=true)
+![My github stats]()
 
 <br>
 
@@ -40,7 +40,7 @@
 
 
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/kriss_464/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheSploit)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:indonesianweb1109@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/kriss_464/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheSploit)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:fadhrulrahman3@gmail.com)
 
 
 
@@ -54,7 +54,7 @@
 
 
 <!--
-  <a href="https://www.instagram.com/kriss_464/">
+  <a href="https://www.instagram.com/sul.lur/">
     <img align="left" alt="My  | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:indonesianweb1109@gmail.com">
